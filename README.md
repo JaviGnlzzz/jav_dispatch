@@ -9,5 +9,3 @@ Preview:
 
 ![image](https://user-images.githubusercontent.com/98654716/161822982-ee73ec76-bd6f-4bbd-ab7d-6b9ddb54b783.png)
 
-![image](https://user-images.githubusercontent.com/98654716/161823038-aece3dea-7b11-42cd-b907-a5af59da0089.png)
-
