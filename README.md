@@ -3,6 +3,8 @@ Este script es una centralita de avisos de Policía , EMS y Mecánico.Esta centr
 
 
 Preview:
+
+
 ![image](https://user-images.githubusercontent.com/98654716/161822925-794341bd-1881-4de1-be4c-81e2b8b0d3ab.png)
 
 ![image](https://user-images.githubusercontent.com/98654716/161822982-ee73ec76-bd6f-4bbd-ab7d-6b9ddb54b783.png)
